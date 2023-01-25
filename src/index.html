@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Tarjeta de crédito válida</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+<div class="center" >
+  <div>
+    <label for="name">Nombre de tarjeta:</label>
+    <input id="name" type="texto" name="name" />
+  </div>
+  <div>
+    <label for="cardnumber">Ingrese Numero de Tarjeta</label>
+    <input id="cardnumber" pattern="[0-9]+" placeholder="#### #### #### ####" maxlength="16" />
+  </div>cd
+
+  <div>
+    <label for="name">Expiración</label>
+    <input id="expiración" type="text" placeholder="MM/AA" />
+  </div>
+  <button id="btn">Validar</button>
+
+  <div id="result">
+
+  </div>
+
+
+</div>
+
+
+  <header></header>
+  <main></main>
+  <footer></footer>
+  <script src="js/index.js" type="module"></script>
+
+</body>
+
+</html>
