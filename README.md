@@ -171,7 +171,12 @@ para definir el producto final a nivel de experiencia y de interfaz.
 Estas preguntas sirven como guía:
 
 * Quiénes son los principales usuarios de producto.
+Cualquier usuario que quiera realizar una compra (supermercado). 
+
 * Cuáles son los objetivos de estos usuarios en relación con tu producto.
+ingresar los datos requeridos principalmente 
+
 * Cómo crees que el producto que estás creando está resolviendo sus problemas.
+Realice un producto simple, amigable y de facil acceso. Los colores utilizados con agradables para la vista, y el tamaño del producto es adecuado para cualquier persona.
 
 
