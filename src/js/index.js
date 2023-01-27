@@ -32,12 +32,12 @@ export function validate() {
   if (valid) {
     // Show success in div#result
     result.innerHTML = "La tarjeta es valida"
-    //alert("la tarjeta es valida")
+    
   }
   else {
     // Show error message in div#result
     result.innerHTML = "La tarjeta es invalida"
-    //alert("la tarjeta es invalida")
+    
   }
  
 
